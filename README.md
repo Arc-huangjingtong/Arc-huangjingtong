@@ -6,5 +6,5 @@
 
 #### Visitor count
 
-![Visitor Count](https://profile-counter.glitch.me/Rootjhon/count.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
