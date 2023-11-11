@@ -9,6 +9,6 @@
     <p>Seek Out Some Exciting Adventures. 👋 </p>
   </div>
   <div style="float: right;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" alt="Image" width="300">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" width="300">
   </div>
 </div>
