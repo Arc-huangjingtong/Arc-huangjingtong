@@ -3,21 +3,9 @@
 ---
 
 
-<div style="overflow: auto;">
-  <div style="float: left;">
-    <p>Embrace the Finite Life  🦊 </p>
-    <p>Seek Out Some Exciting Adventures. 👋 </p>
-  </div>
-  <div style="float: right;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" width="300">
-  </div>
-</div>
 
-
-<h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" align="right">
-  </div>
+  
 <li>
  <b>Name:</b> Sarah</li>
 <li>
@@ -42,6 +30,3 @@
 <b>Working @:</b> Intave Anticheat
 </li>
 <br><br><br>
-
-
-![HeadImage](https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical)
