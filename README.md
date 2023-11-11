@@ -1,3 +1,4 @@
+![](Image/miku.png)
 ### Embrace the Finite Life, Seek Out Some Exciting Adventures. 👋 
 
 
