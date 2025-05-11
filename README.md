@@ -5,10 +5,7 @@
 
 <div style="clear: both; margin-bottom: 5vw; height: auto;"></div>
 
-## 😁 *About **Me！***
+## 🐱 *About **Me！***
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" align="left" alt="image" width="100%" >
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=dark" alt="image" width="50%" />
