@@ -1,9 +1,21 @@
-![HeadImage](Image/MyCatDuoDuo.gif)
+## 👋 *Hi, There is **Arc***
 
-## Embrace the Finite Life, Seek Out Some Exciting Adventures.🥌
+<picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" align="right" alt="image">
+<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
+<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
+<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
+<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
+<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
 
-Hi, I'm Arc, a green hand GameDeveloper , I want to be a GameDesigner in the future. I'm currently learning C++ and
-Unity. I'm also interested in GamePlay and GameEngine. If you have any questions, please
-contact me. Thank you.
+</picture>
+
+<div style="clear: both; margin-bottom: 5vw; height: auto;"></div>
+
+## 😁 *About **Me！***
+
+<picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" align="right" alt="image" width="100%" >
+</picture>
+
+
