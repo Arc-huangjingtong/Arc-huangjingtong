@@ -1,14 +1,8 @@
 ## 👋 *Hi, There is **Arc***
 
-<picture>
-
-<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
-<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
-<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
-<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
-<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
-
-</picture>
+| ![MyCatDuoDuo](Image/MyCatDuoDuo.gif) | ![MyCatDuoDuo](Image/MyCatDuoDuo.gif) | ![MyCatDuoDuo](Image/MyCatDuoDuo.gif) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+| ![MyCatDuoDuo](Image/MyCatDuoDuo.gif) | ![MyCatDuoDuo](Image/MyCatDuoDuo.gif) | ![MyCatDuoDuo](Image/MyCatDuoDuo.gif) |
 
 <div style="clear: both; margin-bottom: 5vw; height: auto;"></div>
 
