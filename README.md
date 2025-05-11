@@ -1,7 +1,6 @@
-![HeadImage](Image/miku.png)
+![HeadImage](Image/MyCatDuoDuo.gif)
 
 ## Embrace the Finite Life, Seek Out Some Exciting Adventures.🥌
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" align="right" alt="image">
 
