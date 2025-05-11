@@ -9,7 +9,7 @@
 ## 😁 *About **Me！***
 
 <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" align="right" alt="image" width="100%" >
+<img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=radical" align="right" alt="image" width="500" >
 </picture>
 
 
