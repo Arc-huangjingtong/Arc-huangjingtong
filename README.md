@@ -2,15 +2,15 @@
 
 <picture>
 
-<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
-<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
-<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
-<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
-<img src="Image/MyCatDuoDuo.gif" align="right" alt="image" width="20%">
+<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
+<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
+<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
+<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
+<img src="Image/MyCatDuoDuo.gif" alt="image" width="20%">
 
 </picture>
 
-<!-- <div style="clear: both; margin-bottom: 5vw; height: auto;"></div> -->
+<div style="clear: both; margin-bottom: 5vw; height: auto;"></div>
 
 ## 😁 *About **Me！***
 
