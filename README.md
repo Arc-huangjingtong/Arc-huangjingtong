@@ -8,4 +8,4 @@
 ## 🐱 *About **Me！***
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arc-huangjingtong&show_icons=true&theme=dark" alt="image" width="50%" />
+<img src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=arc-huangjingtong)](https://github.com/stats-organization/github-stats-extended)" alt="image" width="50%" />
